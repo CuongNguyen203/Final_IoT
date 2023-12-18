@@ -1,0 +1,27 @@
+.App {
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+  height: 1200px;
+}
+.Buocchan {
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 1000PX;
+  height: 1200px;
+  margin-right: 30px;
+}
+
+.Nhiptim {
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 1000PX;
+  height: 600px;
+  margin-right: 30px;
+}
